@@ -3,6 +3,7 @@
 ## Student Details
 
 **Name:** V K MOHAMMED SHIFAZ
+
 **Register Number:** TCR24CS070 
 
 ---
@@ -56,3 +57,4 @@ These are calculated using the Baum–Welch training process.
 
 
 This project demonstrates the implementation of Hidden Markov Model training using the Baum–Welch algorithm in C language.
+
